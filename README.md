@@ -1,10 +1,9 @@
 # Proyecto final del Sprint 9
 
-El siguiente proyecto consiste en la automatización de pruebas de API 
-para la aplicación Urban Routs, el proyecto busca probar 
-***"todo el flujo de la aplicacion para pedir un taxi"***. En este documento 
-podras los localizadores ya definidos y métodos necesarios en la clase 
-***"UrbanRoutesPage"*** y las pruebas en la clase ***"TestUrbanRoutesver"***
+Este proyecto consiste en la automatización de la aplicación Urban Routes
+con el fin de probar ***"todo el flujo de la aplicación para pedir un taxi"***. 
+Encontrará la documentación con los localizadores y métodos necesarios en la clase
+***"UrbanRoutesPage"*** y las pruebas correspondientes en la clase ***"TestUrbanRoutesver"***
 
 
 # Tecnologías utilizadas
