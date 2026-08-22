@@ -1,4 +1,4 @@
-# 🚗 Urban Routes — Suite de Automatización E2E con Selenium
+# Urban Routes — Suite de Automatización E2E con Selenium 🚕
 
 Proyecto de automatización de pruebas End-to-End para **Urban Routes**, una aplicación web de solicitud de transporte y taxis que integra configuración de rutas, selección de tarifas, métodos de pago y confirmación de conductor en tiempo real.
 
@@ -8,7 +8,7 @@ La suite automatiza el flujo crítico de negocio para validar la estabilidad de 
 
 ---
 
-## 📋 Contexto del Proyecto
+## Contexto del Proyecto 📝
 
 El proceso de reserva en *Urban Routes* involucra interacciones complejas entre múltiples componentes dinámicos de UI, validaciones de formularios y autenticación mediante código SMS (interceptado dinámicamente mediante logs de protocolo **CDP - Chrome DevTools Protocol**).
 
@@ -18,7 +18,7 @@ La ejecución manual de esta regresión consumía aproximadamente 38 minutos por
 
 ---
 
-## 🏗️ Arquitectura del Proyecto (POM - 3 Capas)
+## Arquitectura del Proyecto (POM - 3 Capas) 🛠️
 
 El proyecto sigue una estructura modular limpia para garantizar la mantenibilidad y escalabilidad del código:
 
@@ -31,7 +31,7 @@ El proyecto sigue una estructura modular limpia para garantizar la mantenibilida
 
 ---
 
-## ✅ Cobertura del Flujo E2E (8 Pasos)
+## Cobertura del Flujo E2E (8 Pasos) ✅
 
 1. **Definición de Ruta:** Configurar dirección de origen y destino.
 2. **Selección de Tarifa:** Elección de la tarifa *Comfort*.
@@ -44,7 +44,7 @@ El proyecto sigue una estructura modular limpia para garantizar la mantenibilida
 
 ---
 
-## 📊 Métricas y Resultados
+## Métricas y Resultados 📊
 
 | Métrica | Valor |
 | :--- | :--- |
@@ -56,7 +56,7 @@ El proyecto sigue una estructura modular limpia para garantizar la mantenibilida
 
 ---
 
-## 🚀 Instalación y Ejecución
+## Instalación y Ejecución🚦
 
 1. **Clonar el repositorio:** git clone https://github.com/kdtrujillor-gif/qa-project-Urban-Routes-es
 2. **Instalar dependencias:** pip install -r
