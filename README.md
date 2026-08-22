@@ -7,7 +7,7 @@ Encontrará la documentación con los localizadores y métodos necesarios en la 
 
 
 # Tecnologías utilizadas
-Pycharm, Git y GitHub
+Pycharm, Selenium, Git y GitHub
 
 # Pruebas
 
