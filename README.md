@@ -28,7 +28,6 @@ El proyecto sigue una estructura modular limpia para garantizar la mantenibilida
 | `helpers.py` | Lógica reutilizable y utilidades (p. ej. captura de código SMS vía CDP). |
 | `data.py` | Datos de prueba: direcciones, tarjetas de crédito, mensajes. |
 | `test_main.py` | Casos de prueba E2E organizados con Pytest y aserciones. |
-| `requirements.txt` | Lista de dependencias del proyecto. |
 
 ---
 
@@ -59,7 +58,7 @@ El proyecto sigue una estructura modular limpia para garantizar la mantenibilida
 
 ## 🚀 Instalación y Ejecución
 
-1. **Clonar el repositorio:** git clone
-2. **Instalar dependencias:** pip install -r requirements.txt
+1. **Clonar el repositorio:** git clone https://github.com/kdtrujillor-gif/qa-project-Urban-Routes-es
+2. **Instalar dependencias:** pip install -r
 3. **Verificar** que Edge WebDriver está en la ruta configurada en main.py
 4. **Ejecutar las pruebas:** pytest test_main.py  
